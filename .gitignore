@@ -1,0 +1,12 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore dataset
+data/
+
+# Ignore model weights (.pt/.pth files)
+*.pt
+*.pth  
